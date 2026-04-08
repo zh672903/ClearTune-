@@ -139,7 +139,8 @@
 ### 1. 下载
 
 - 网盘链接：[点击下载](https://pan.baidu.com/s/10TjROXumjuC46EYr583dSg?pwd=f5tr)
-
+- 百度网盘地址： https://pan.baidu.com/s/10TjROXumjuC46EYr583dSg?pwd=f5tr
+- 
 ### 2. 使用
 1. 拖入音频文件
 2. 选择分离模式（6轨/4轨）
@@ -183,6 +184,7 @@
 ### 立即下载
 
 - 网盘链接：[点击下载](https://pan.baidu.com/s/10TjROXumjuC46EYr583dSg?pwd=f5tr)
+- 百度网盘地址： https://pan.baidu.com/s/10TjROXumjuC46EYr583dSg?pwd=f5tr
 
 ---
 
