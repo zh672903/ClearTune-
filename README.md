@@ -138,7 +138,7 @@
 
 ### 1. 下载
 
-- 网盘链接：[点击下载](https://pan.baidu.com/s/10TjROXumjuC46EYr583dSg?pwd=f5tr)
+- 网盘链接：[点击下载](https://pan.baidu.com/s/1plfBTtUPmOitP44trftyCw?pwd=bekp)
 
 ### 2. 使用
 1. 拖入音频文件
@@ -182,7 +182,7 @@
 
 ### 立即下载
 
-- 网盘链接：[点击下载](https://pan.baidu.com/s/10TjROXumjuC46EYr583dSg?pwd=f5tr)
+- 网盘链接：[点击下载](https://pan.baidu.com/s/1plfBTtUPmOitP44trftyCw?pwd=bekp)
 
 ---
 
